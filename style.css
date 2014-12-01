@@ -23,8 +23,13 @@ header ul {
 header li {
     display:inline-block;
 }
+
+header a {
+
+}
+
 body{
-    background-image:url(http://cvincent61.free.fr/fond/fond-site.jpg);
+    background-image:url(images/greyfloral.png);
         }
 strong{
     font-size:40px;
