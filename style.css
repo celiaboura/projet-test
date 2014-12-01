@@ -4,7 +4,31 @@ h1 {
     text-align: center;
     text-decoration:underline;
 }
+header {
+    background-color: black;
+        font-family:arial;
+    font-size:35px;
+    text-align: center;
+    margin: auto;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
 
 p{
     text align:justify;
+}
+header ul {
+    list-style:none;
+}
+header li {
+    display:inline-block;
+}
+body{
+    background-image:url(http://cvincent61.free.fr/fond/fond-site.jpg);
+        }
+strong{
+    font-size:40px;
+}
+main{
+    max-width:800px; /*
 }
