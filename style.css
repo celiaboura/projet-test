@@ -25,7 +25,12 @@ header li {
 }
 
 header a {
-
+    color:white;
+margin: 150px;
+  padding: 30px;
+  font-size: large;
+  font-family: "Tahoma", Arial, sans-serif;
+  text-align: left;
 }
 
 body{
