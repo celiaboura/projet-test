@@ -30,11 +30,12 @@ p  {
     font-size:15px}
 
 header ul {
-    padding: 30
-         width:1044px;
+    padding: 30;
+    width:1200px;
     height:45px;
     line-height:45px;
     list-style:none;
+    margin: auto;
 }
 
 header li {
@@ -52,16 +53,6 @@ header a {
   font-size: large;
   text-align: center;
     text-decoration: none;
-}
-
-#wrapper {
-    width: 1060px;
-    background: #FFF;
-    display:block;
-    margin:70px;
-    padding:20px;
-    display:table;
-    float:center;
 }
 
 #col {
@@ -112,11 +103,33 @@ strong{
     font-size:40px;
 }
 main{
-    max-width:800px;
+    max-width:1200px;
+    margin: auto;
+    margin-top:80px;
+    background: #FFF;
+    display:block;
+    padding:20px;
+    overflow: hidden;
+}
+
+#wrapper {
+    max-width:1200px;
+    margin: auto;
+    margin-top:80px;
+    background: #FFF;
+    display:block;
+    padding:20px;
+    overflow: hidden;
 }
 
 footer{
-    text-align: center;
-}
+        text-align: center;
+        margin:auto;
+    position:fixed;
+    max-width: 1000px;
+    bottom:0px;
+    left:25px;
+    right:25px;
+    }
 
     
